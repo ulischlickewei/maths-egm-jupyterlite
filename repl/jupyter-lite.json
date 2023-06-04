@@ -1,7 +1,7 @@
 {
     "jupyter-lite-schema-version": 0,
     "jupyter-config-data": {
-      "enableMemoryStorage" : true,
+      "enableMemoryStorage" : 1,
       "settingsStorageName": ["memoryStorageDriver"],
       "contentsStorageDrivers": ["memoryStorageDriver"],
       "disabledExtensions": [
